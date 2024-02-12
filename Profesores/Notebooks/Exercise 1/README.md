@@ -6,7 +6,7 @@
 
 
 
-#### Open your Zeppelin 2
+#### Open your Zeppelin 3
 Run below command 
 
 ```bash
